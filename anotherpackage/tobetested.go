@@ -1,9 +1,9 @@
 package anotherpackage
 
 // instead of using:
-//
+
 // import "dancho/testing/privateinterfacepackage"
-//
+
 // func OperatingBase(base *privateinterfacepackage.Base) string {
 // 	return base.DoSomething()
 // }
